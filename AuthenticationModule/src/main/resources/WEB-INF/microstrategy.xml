@@ -1,0 +1,9 @@
+<application>
+  <controllers>
+    <controller name="mstrWeb">
+      <parameters>
+        <parameter name="externalSecurityClass" value="br.serpro.gov.microstrategy.authenticationmodule.AuthenticationModuleESM"/>
+      </parameters>
+    </controller>
+  </controllers>
+</application>
